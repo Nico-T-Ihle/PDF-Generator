@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.bouncycastle">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/bcprov-jdk15on-1.56.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://mvnrepository.com/artifact/org.bouncycastle/bcprov-jdk15on" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
